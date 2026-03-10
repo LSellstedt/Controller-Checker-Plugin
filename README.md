@@ -1,5 +1,3 @@
-Godot Input Device Detector
-
 A lightweight Godot input manager that automatically detects whether the player is using:
 
 Keyboard & Mouse
